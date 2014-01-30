@@ -1,6 +1,6 @@
 {
   "name": "metrics.js",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Log metrics data to MongoDB",
   "main": "./lib/log_metrics.js",
   "scripts": {
